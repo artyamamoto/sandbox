@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -148,7 +148,7 @@ class Zend_Tool_Project_Context_Zf_ViewScriptFile extends Zend_Tool_Project_Cont
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Zend Framework Default Application</title>
+  <title>Zend Framework! Default Application</title>
 </head>
 <body>
   <h1>An error occurred</h1>
@@ -208,7 +208,7 @@ EOS;
     }
 </style>
 <div id="welcome">
-    <h1>Welcome to the <span id="zf-name">Zend Framework!</span></h1>
+    <h1>Welcome to the <span id="zf-name">Zend Framework!!</span></h1>
 
     <h3>This is your project's main page</h3>
 
@@ -216,8 +216,8 @@ EOS;
         <p><img src="http://framework.zend.com/images/PoweredBy_ZF_4LightBG.png" /></p>
         <p>
             Helpful Links: <br />
-            <a href="http://framework.zend.com/">Zend Framework Website</a> |
-            <a href="http://framework.zend.com/manual/en/">Zend Framework Manual</a>
+            <a href="http://framework.zend.com/">Zend Framework! Website</a> |
+            <a href="http://framework.zend.com/manual/en/">Zend Framework! Manual</a>
         </p>
     </div>
 </div>

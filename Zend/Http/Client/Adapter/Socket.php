@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -142,7 +142,7 @@ class Zend_Http_Client_Adapter_Socket implements Zend_Http_Client_Adapter_Interf
      * stream_context_create() PHP function. In such case a new stream context
      * will be created using the passed options.
      *
-     * @since  Zend Framework 1.9
+     * @since  Zend Framework! 1.9
      *
      * @param  mixed $context Stream context or array of context options
      * @return Zend_Http_Client_Adapter_Socket

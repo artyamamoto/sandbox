@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -106,7 +106,7 @@ class Zend_Loader
      * $filename must be the complete filename, including any
      * extension such as ".php".  Note that a security check is performed that
      * does not permit extended characters in the filename.  This method is
-     * intended for loading Zend Framework files.
+     * intended for loading Zend Framework! files.
      *
      * If $dirs is a string or an array, it will search the directories
      * in the order supplied, and attempt to load the first matching file.

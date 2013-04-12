@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -178,7 +178,7 @@ class Zend_Gdata_App
     }
 
     /**
-     * Adds a Zend Framework package to the $_registeredPackages array.
+     * Adds a Zend Framework! package to the $_registeredPackages array.
      * This array is searched when using the magic __call method below
      * to instantiante new objects.
      *
@@ -1027,7 +1027,7 @@ class Zend_Gdata_App
 
     /**
      * Provides a magic factory method to instantiate new objects with
-     * shorter syntax than would otherwise be required by the Zend Framework
+     * shorter syntax than would otherwise be required by the Zend Framework!
      * naming conventions.  For instance, to construct a new
      * Zend_Gdata_Calendar_Extension_Color, a developer simply needs to do
      * $gCal->newColor().  For this magic constructor, packages are searched

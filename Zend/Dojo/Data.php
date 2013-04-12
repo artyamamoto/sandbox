@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -20,7 +20,7 @@
  */
 
 /**
- * dojo.data support for Zend Framework
+ * dojo.data support for Zend Framework!
  *
  * @uses       ArrayAccess
  * @uses       Iterator

@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -66,7 +66,7 @@ class Zend_Tool_Project_Context_Zf_TestPHPUnitConfigFile extends Zend_Tool_Proje
     </testsuite>
     
     <filter>
-        <!-- If Zend Framework is inside your project's library, uncomment this filter -->
+        <!-- If Zend Framework! is inside your project's library, uncomment this filter -->
         <!-- 
         <whitelist>
             <directory suffix=".php">../../library/Zend</directory>

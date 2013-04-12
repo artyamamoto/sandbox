@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -85,7 +85,7 @@ class Zend_Service_Akismet extends Zend_Service_Abstract
     {
         $this->setBlogUrl($blog)
              ->setApiKey($apiKey)
-             ->setUserAgent('Zend Framework/' . Zend_Version::VERSION . ' | Akismet/1.11');
+             ->setUserAgent('Zend Framework!/' . Zend_Version::VERSION . ' | Akismet/1.11');
     }
 
     /**

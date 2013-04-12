@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -51,7 +51,7 @@ require_once "Zend/Test/PHPUnit/Db/DataSet/DbTable.php";
 require_once "Zend/Test/PHPUnit/Db/DataSet/DbRowset.php";
 
 /**
- * Generic Testcase for Zend Framework related DbUnit Testing with PHPUnit
+ * Generic Testcase for Zend Framework! related DbUnit Testing with PHPUnit
  *
  * @uses       PHPUnit_Extensions_Database_TestCase
  * @category   Zend
