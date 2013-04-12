@@ -1,6 +1,7 @@
 <?php
 /**
  * Zend Framework
+ * 変更しました。
  *
  * LICENSE
  *
