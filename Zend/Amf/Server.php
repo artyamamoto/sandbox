@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -47,7 +47,7 @@ require_once 'Zend/Amf/Parse/TypeLoader.php';
 require_once 'Zend/Auth.php';
 /**
  * An AMF gateway server implementation to allow the connection of the Adobe Flash Player to
- * Zend Framework
+ * Zend Framework!
  *
  * @todo       Make the reflection methods cache and autoload.
  * @package    Zend_Amf

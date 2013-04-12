@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -841,7 +841,7 @@ class Zend_Gdata_Gapps extends Zend_Gdata
 
     /**
      * Provides a magic factory method to instantiate new objects with
-     * shorter syntax than would otherwise be required by the Zend Framework
+     * shorter syntax than would otherwise be required by the Zend Framework!
      * naming conventions. For more information, see Zend_Gdata_App::__call().
      *
      * This overrides the default behavior of __call() so that query classes

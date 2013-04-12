@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -87,7 +87,7 @@ abstract class Zend_Gdata_App_FeedSourceParent extends Zend_Gdata_App_FeedEntryP
      *
      * Sets the HTTP client object to use for retrieving the feed.
      *
-     * @deprecated Deprecated as of Zend Framework 1.7. Use
+     * @deprecated Deprecated as of Zend Framework! 1.7. Use
      *             setService() instead.
      * @param  Zend_Http_Client $httpClient
      * @return Zend_Gdata_App_FeedSourceParent Provides a fluent interface

@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -75,7 +75,7 @@ class Zend_Tool_Framework_System_Provider_Version
         $output = implode('.', $versionInfo);
 
         if ($nameIncluded) {
-            $output = 'Zend Framework Version: ' . $output;
+            $output = 'Zend Framework! Version: ' . $output;
         }
 
         $this->_registry->response->appendContent($output);

@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -66,7 +66,7 @@ class Zend_Tool_Framework_Loader_IncludePathLoader extends Zend_Tool_Framework_L
 
             $realIncludePath = realpath($path);
 
-            // ensure that we only traverse a single version of Zend Framework on all include paths
+            // ensure that we only traverse a single version of Zend Framework! on all include paths
             if (file_exists($realIncludePath . '/Zend/Tool/Framework/Loader/IncludePathLoader.php')) {
                 if ($isZendTraversed === false) {
                     $isZendTraversed = true;

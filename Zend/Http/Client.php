@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -1359,7 +1359,7 @@ class Zend_Http_Client
      * necessarily unique. If one of the parameters in as array, it will also
      * add a [] suffix to the key.
      *
-     * This method is deprecated since Zend Framework 1.9 in favour of
+     * This method is deprecated since Zend Framework! 1.9 in favour of
      * self::_flattenParametersArray() and will be dropped in 2.0
      *
      * @deprecated since 1.9

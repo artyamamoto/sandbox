@@ -1,6 +1,6 @@
 <?php
 /**
- * Zend Framework
+ * Zend Framework!
  *
  * LICENSE
  *
@@ -20,7 +20,7 @@
  */
 
 /**
- * Class to store and retrieve the version of Zend Framework.
+ * Class to store and retrieve the version of Zend Framework!.
  *
  * @category   Zend
  * @package    Zend_Version
@@ -30,20 +30,20 @@
 final class Zend_Version
 {
     /**
-     * Zend Framework version identification - see compareVersion()
+     * Zend Framework! version identification - see compareVersion()
      */
     const VERSION = '1.11.11';
 
     /**
-     * The latest stable version Zend Framework available
+     * The latest stable version Zend Framework! available
      *
      * @var string
      */
     protected static $_latestVersion;
 
     /**
-     * Compare the specified Zend Framework version string $version
-     * with the current Zend_Version::VERSION of Zend Framework.
+     * Compare the specified Zend Framework! version string $version
+     * with the current Zend_Version::VERSION of Zend Framework!.
      *
      * @param  string  $version  A version string (e.g. "0.7.1").
      * @return int           -1 if the $version is older,
